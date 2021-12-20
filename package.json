@@ -1,0 +1,11 @@
+{
+  "name": "Pode.Game",
+  "description": "Game framework for use with the Pode PowerShell web server",
+  "repository": "https://github.com/Badgerati/Pode.Game.git",
+  "author": "Matthew Kelly <badgerati42@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "3.6.0",
+    "phaser": "3.55.2"
+  }
+}
